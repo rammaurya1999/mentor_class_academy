@@ -1,0 +1,261 @@
+
+
+
+/*comman css start here*/
+
+table.dataTable.no-footer {
+border-bottom:none;	
+}
+
+.dataTables_paginate.paging_simple_numbers {
+margin:15px 0px 0px 0px;
+}
+
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+padding: 0px;
+margin-left: 10px;	
+}
+
+
+
+/*comman css end here*/
+
+
+
+
+
+/*admin dashboard sidebar css start here*/
+
+
+.nav-sidebar .nav-link>p>.right {
+right: 37px;
+}
+
+
+.nav-sidebar .nav-link>.right {
+right:37px;	
+}
+
+.nav-sidebar .nav-treeview>.nav-item>.nav-link>.nav-icon {
+font-size:13px;	
+}
+
+.nav-sidebar .menu-open>.nav-link i.right {
+transform:none;	
+}
+
+.ledtpadding .nav-item .nav-link i {
+padding: 0px 10px 0px 33px !important;	
+}
+
+.nav-treeview .nav-th {
+padding: 0px 10px 0px 0px !important;		
+}
+
+/*admin dashboard sidebar css end here*/
+
+
+/*tab css start here*/
+
+.healthDirectoryTabs nav > div a.nav-item.nav-link.active:after {
+left: -14%;
+bottom: -57px;
+}
+
+
+/*tab css end here*/
+
+
+
+/* user profile admin css start here*/
+
+
+
+.small-box.commenc-dash-card-area {
+font-weight:500;
+}
+
+
+.small-box.commenc-dash-card-area a i {
+font-size:14px;	
+}
+
+
+.small-box.commenc-dash-card-area h3 {
+font-size:25px;	
+}
+
+
+.small-box .icon>i.fas {
+font-size:35px;
+top:10px;
+}
+
+
+.small-box .icon>i.ion {
+font-size:35px;
+top:10px;	
+}
+
+
+.card-body.admin-profile-aligment {
+margin-left:0px;	
+}
+
+
+.user-admin-profile-img {
+background: #cdcdcd26;
+padding: 20px 0px 30px 0px;
+box-shadow: rgb(0 0 0 / 2%) 0px 1px 3px 0px, rgb(27 31 35 / 15%) 0px 0px 0px 1px;	
+}
+
+.user-admin-profile-img .form-control-file {
+width: 58%;
+margin: 0px auto;
+padding:40px 0px 60px 0px;
+}
+
+
+.user-detail-input-box {
+background: #cdcdcd26;
+padding: 20px 20px 30px 20px;
+box-shadow: rgb(0 0 0 / 2%) 0px 1px 3px 0px, rgb(27 31 35 / 15%) 0px 0px 0px 1px;	
+}
+
+
+.user-detail-input-box .card-footer {
+background-color: transparent;
+padding:0px 0px 0px 0px;
+text-align:center;	
+}
+
+
+/* user profile admin css end here*/
+
+
+
+
+/*change password page css start here*/
+
+.change-password-btn-area {
+text-align:center;	
+}
+
+
+/*change password page css end here*/
+
+
+
+
+
+/*staff user page css start here*/
+
+.choose-other-img-area {
+text-align:center;
+padding: 20px 0px 20px 0px;	
+}
+
+.from-cover-main-area {
+background: #cdcdcd26;
+padding: 20px 10px 20px 20px;
+box-shadow: rgb(0 0 0 / 2%) 0px 1px 3px 0px, rgb(27 31 35 / 15%) 0px 0px 0px 1px;
+margin: 40px auto;
+}
+
+.card-footer {
+padding:0px;
+background-color:transparent;
+border-top:none;	
+text-align:center;
+}
+
+
+/*staff user page css end here*/
+
+
+
+
+/*hospital page css start here*/
+
+.timer-tb-main-area {
+margin: 15px 0px 30px 0px;	
+}
+
+
+.timer-radio-check-area {
+margin:10px 0px 15px 0px;	
+}
+
+table.dataTable thead th {
+padding:10px 10px;	
+}
+
+/*hospital page css end here*/
+
+
+
+
+/*privacy policy page css start here*/
+
+
+.table-bordered h1 {
+font-size:20px;
+margin:0px 0px 2px 0px;
+}
+
+.contetn-box-size-fix {
+width:70%;	
+}
+
+
+/*privacy policy page css end here*/
+
+
+
+/*login page css start here*/ 
+
+
+.login-box li {
+color: red;
+font-weight: 500;
+font-size: 17px;
+margin: 30px 0px 20px 0px;
+list-style: none;
+text-align: center;
+background: #fff;
+padding: 5px 0px 5px 0px;
+}
+
+
+.tab-pane.admin-btn-algment a {
+margin: 0px 0px 10px 7px;
+}
+
+
+.table-btn-space-prnt {
+margin: 20px 0px 0px 0px;	
+}
+
+/*login page css end here*/ 
+
+
+
+
+/*all page shorting css start here*/
+
+.table.dataTable thead .status-arrow-shorting-hide.sorting {
+background-image:inherit;	
+}
+
+.table.dataTable thead .status-arrow-shorting-hide.sorting_asc {
+background-image:inherit;	
+}
+
+
+.table.dataTable thead .status-arrow-shorting-hide.sorting_desc {
+background-image:inherit;
+}
+
+
+/*all page shorting css end here*/

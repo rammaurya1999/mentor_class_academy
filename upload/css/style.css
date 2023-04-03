@@ -1,0 +1,148 @@
+/* mentor-dashboard */
+
+/* nav dashboard start */
+/* ------------- */
+.img-logo img {
+    width: 65px;
+}
+
+.icon-dash i {
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+}
+.icon-dash i {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #ce9d2b;
+    border: 3px solid #040404;
+    cursor: progress;
+    padding: 1px 10px;
+    border-radius: 5px;
+}
+.head-right-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.head-right-img{
+    height: 40px;
+    width: 40px;
+}
+.icon-bell {
+    height: 40px;
+    width: 40px;
+    background: #c59024;
+    padding: 8px 0px 3px 11px;
+    border-radius: 50%;
+}
+.icon-bell i {
+    color: white;
+    font-size: 20px;
+}
+.en-para p {
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 6px;
+}
+nav.navbar.nav-mentor-dash {
+    box-shadow: rgba(0, 0, 0, 0.24) 4px 3px 12px;
+    margin-left: 250px;
+
+}
+/* -------- */
+
+/* nav dashboard end */
+/* side-bar */
+ .sidenav-mentor {
+    height: 100%;
+    width: 251px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #222021;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  /* Style the sidenav-mentor links and the dropdown button */
+   .sidenav-mentor a, .dropdown-btn {
+    padding: 0px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color: #818181;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  /* On mouse-over */
+   .sidenav-mentor a:hover, .dropdown-btn:hover {
+    color: #f1f1f1;
+  }
+  
+  /* Main content */
+  .sidenav-mentor .main {
+    margin-left: 200px; /* Same as the width of the sidenav-mentor */
+    font-size: 20px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+  
+  /* Add an active class to the active dropdown button */
+    .sidenav-mentor .active {
+    background-color: green;
+    color: white;
+  }
+  
+  /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+   .sidenav-mentor .dropdown-container {
+    display: none;
+    background-color: #262626;
+    padding-left: 8px;
+  }
+  
+  /* Optional: Style the caret down icon */
+  .sidenav-mentor .fa-caret-down {
+    float: right;
+    padding-right: 8px;
+  }
+  
+  /* Some media queries for responsiveness */
+  @media screen and (max-height: 450px) {
+     .sidenav-mentor {padding-top: 15px;}
+     .sidenav-mentor a {font-size: 18px;}
+  }
+  .sidenav-mentor a {
+    color: white;
+}
+span.side-icon i {
+    font-size: 17px;
+    margin-right: 17px;
+}
+img.logo-img {
+    width: 196px;
+}
+.side-lineheight a {
+    line-height: 2.2;
+}
+.side-lineheight a:hover {
+    background: #cc9929;
+    color: white;
+}
+.side-lineheight a{
+transition: 0.5s;
+}
+.side-lineheight button:hover {
+    background: #cc9929;
+    color: white;
+}
+.side-lineheight button:hover {
+transition: 0.5s;
+}
